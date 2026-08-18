@@ -18,6 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=AlejandroE207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AlejandroE207&icon=0&color=0)](https://visitcount.itsvg.in)
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_color=red"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
